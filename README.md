@@ -1,2 +1,2 @@
 # hello-world
-Just auther repository
+Just another repository
